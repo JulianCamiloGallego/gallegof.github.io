@@ -1,1 +1,0 @@
-# gallegof.github.io
