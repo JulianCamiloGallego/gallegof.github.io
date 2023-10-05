@@ -1,5 +1,5 @@
-AUTHOR = 'Danger Doggo'
-SITENAME = 'My Cool Site'
+AUTHOR = 'Mikel Arteta'
+SITENAME = 'Arsenal FC'
 SITEURL = ''
 
 PATH = 'content'
